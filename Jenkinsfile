@@ -8,7 +8,7 @@ pipeline{
 		{
 		steps{
 		
-			git:"https://github.com/Sonupriyankaramesh/maven-test3.git"
+			git "https://github.com/Sonupriyankaramesh/maven-test3.git"
 			}
 		}
 		
